@@ -1,10 +1,10 @@
-# InclusaHub
+# InclusiHub
 
-InclusaHub é uma plataforma inclusiva de empregos, projetada para conectar profissionais com deficiência a oportunidades no mercado de trabalho. Inspirado no LinkedIn, nosso objetivo é promover a acessibilidade e a inclusão, ajudando empresas a encontrar talentos diversificados e profissionais a se conectarem com suas carreiras ideais.
+InclusiHub é uma plataforma inclusiva de empregos, projetada para conectar profissionais com deficiência a oportunidades no mercado de trabalho. Inspirado no LinkedIn, nosso objetivo é promover a acessibilidade e a inclusão, ajudando empresas a encontrar talentos diversificados e profissionais a se conectarem com suas carreiras ideais.
 
-## 🌐 Acesse o InclusaHub
+## 🌐 Acesse o InclusiHub
 
-Acesse a plataforma online: [InclusaHub](https://inclusi-hub.vercel.app)
+Acesse a plataforma online: [InclusiHub](https://inclusi-hub.vercel.app)
 
 ## 📋 Passo a Passo para Configuração Local
 
@@ -47,7 +47,7 @@ Para interromper o Live Server, basta clicar em **Stop Live Server** na barra in
 
 ## 🌍 Hospedagem
 
-O InclusaHub está hospedado na [Vercel](https://vercel.com), uma plataforma de hospedagem rápida e eficiente, perfeita para projetos web. Aqui está um breve resumo do processo de hospedagem:
+O InclusiHub está hospedado na [Vercel](https://vercel.com), uma plataforma de hospedagem rápida e eficiente, perfeita para projetos web. Aqui está um breve resumo do processo de hospedagem:
 
 1. **Deploy Automatizado:** O repositório GitHub foi integrado ao Vercel, permitindo a atualização automática do site sempre que uma nova alteração é enviada para o repositório.
 2. **Configuração Simples:** Com a conta Vercel conectada ao GitHub, o projeto foi configurado em minutos, garantindo um deploy contínuo e sem complicações.
